@@ -12,7 +12,7 @@ rpcuser=$RPCUSER
 rpcpassword=$RPCPASSWORD"
 fi
 
-echo "txindex=1
+echo "prune=10000
 blockfilterindex=1
 peerblockfilters=1
 coinstatsindex=1
